@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "00cb",
+      "pname": "blue car",
+      "pprice": "1300000",
+      "pqty": "150",
+      "pimg": "https://imgd.aeplcdn.com/370x208/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-109.jpeg?isig=0&q=80"
+    },
+    {
+      "id": "6ec2",
+      "pname": "Monitorssssssssss",
+      "pprice": "120003",
+      "pqty": "100",
+      "pimg": ""
+    },
+    {
+      "id": "d8a4",
+      "pname": "chairssssssss",
+      "pprice": "1500",
+      "pqty": "100",
+      "pimg": ""
+    }
+  ]
+}
